@@ -1,0 +1,28 @@
+
+.image{
+  padding:  20px 10px;
+}
+
+.App-header {
+  background-image: url("movieposter.jpg");
+  background-position: center;
+  background-size: 1400px;
+  height: 150px;
+  padding: 20px;
+  }
+
+.App-title {
+  font-size: 2em;
+  text-align: center;
+  display: none;
+ }
+
+.bar{
+  padding: 0px 250px;
+display: inline-flex;
+}
+
+#result{
+  background-color: rgba(25,25,25,.5);
+  display: all;
+}
